@@ -1,6 +1,6 @@
 <?php
 $hostname='localhost';
-$database='datos1';
+$database='cardenastec';
 $username='root';
 $password='';
 
